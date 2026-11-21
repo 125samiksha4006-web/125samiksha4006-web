@@ -4,22 +4,24 @@
 
 I'm passionate about technology, programming and cybersecurity. I enjoy learning new technologies, exploring ideas and building practical projects.
 
+
 ## 💻 Technical Skills
 
-**Programming Languages**
-- C++
-- Java
-- Python
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
-**Web Development**
-- HTML
-- CSS
-- JavaScript
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-**Core Technical Skills**
+### Database & Core Skills
+![SQL](https://img.shields.io/badge/SQL-lightblue?logo=mysql)
 - Data Structures
-- SQL
 - Basic Cybersecurity
+
 
 ## 🚀 Areas of Interest
 - Software Development
