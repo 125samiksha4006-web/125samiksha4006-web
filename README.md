@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋 I'm Samiksha
 
-<!--
-**125samiksha4006-web/125samiksha4006-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Engineering Student | IT
 
-Here are some ideas to get you started:
+I'm passionate about technology, programming and cybersecurity. I enjoy learning new technologies, exploring ideas and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+**Programming Languages**
+- C++
+- Java
+- Python
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Core Technical Skills**
+- Data Structures
+- SQL
+- Basic Cybersecurity
+
+## 🚀 Areas of Interest
+- Software Development
+- Cybersecurity
+- Networking
+- Internet of Things (IoT)
+
+## 🎯 My Goals
+- Build real-world projects.
+- Improve my problem-solving skills.
+- Explore open-source contributions.
+- Gain practical experience through internships.
+
+## 📌 My Projects
+Coming soon! Stay tuned as I build and share my projects.
+
+## 🤝 Let's Connect
+Thanks for visiting my GitHub profile!
+
+Always learning, building and growing. 🌱
